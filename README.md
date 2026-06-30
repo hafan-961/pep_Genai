@@ -1,1 +1,0 @@
-# Alphabet_detection_and_translation
